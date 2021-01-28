@@ -90,7 +90,7 @@ Quelques organismes à connaître concernant la protection de la Propriété Int
 - ***INPI :*** Institut Nationale de la Propriété Intellectuelle (français),
 - ***EPO :*** Bureau européen des brevets,
 - ***USPTO :*** US Patent Office,
-- ***WIPO/OMPI :*** Organisation Mondiale pour la Propriété Intellectuel (affilié aux Nations Unies).
+- ***WIPO/OMPI :*** Organisation Mondiale pour la Propriété Intellectuelle (affilié aux Nations Unies).
 - ***CEIPI :*** Centre d'Etudes Internationales de la Propriété Intellectuelle
 
 
