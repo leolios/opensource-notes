@@ -90,7 +90,9 @@ Quelques organismes à connaître concernant la protection de la Propriété Int
 - ***INPI :*** Institut Nationale de la Propriété Intellectuelle (français),
 - ***EPO :*** Bureau européen des brevets,
 - ***USPTO :*** US Patent Office,
-- ***WIPO/OMPI :*** Organisation Mondiale pour la Propriété Intellectuel (affilié aux Nations Unies).
+- ***WIPO/OMPI :*** Organisation Mondiale pour la Propriété Intellectuelle (affilié aux Nations Unies).
+- ***CEIPI :*** Centre d'Etudes Internationales de la Propriété Intellectuelle
+
 
 ### Droit d'auteur
 En France, le droit d'auteur se fonde sur les textes du [*Code de la Propriété Intellectuelle*](https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069414/2021-01-21/)
@@ -138,6 +140,7 @@ partielle faite sans le consentement de l’auteur ou de ses ayants droit ou aya
 - [*Philosophy of the GNU Project.*](https://www.gnu.org/philosophy/philosophy.en.html) Free Software Foundation, 2018.
 - [*Open Source Guides.*](https://opensource.guide/) GitHub & friends, 2020.
 - [*APRIL, promouvoir et défendre le logiciel libre.*](https://april.org) Association loi 1901.
+- [*Liste des organismes de propriété intellectuelle*](https://patentepi.org/fr/liens-epi/organismes-de-propriete-intellectuelle.html) Epi, 2020.
 
 ### Bibliographie
 - Raymond, Eric S. [*The cathedral & the bazaar : musings on Linux and open source by an accidental revolutionary.*](http://www.catb.org/~esr/writings/cathedral-bazaar/) O'Reilly, 1999.
@@ -149,3 +152,4 @@ partielle faite sans le consentement de l’auteur ou de ses ayants droit ou aya
 - Masutti, Christophe. [*Libertés numériques. Guide de bonnes pratiques à l’usage des DuMo.*](https://framabook.org/libertes-numeriques/) Framasoft, 2017.
 - Paloque-Berges, Camille. Masutti, Christophe. [*Histoires et cultures du Libre. Des logiciels partagés aux licences échangées.*](https://framabook.org/histoiresetculturesdulibre/) Framasoft, 2013.
 - Jean, Benjamin. [*Option Libre. Du bon usage des licences libres.*](https://framabook.org/optionlibre-dubonusagedeslicenceslibres/) Framasoft, 2011.
+- Rob, Lucas. [*Interview de Richard Stallman, Talking to the mailman*](https://newleftreview.org/issues/ii113/articles/richard-stallman-talking-to-the-mailman) New Left Review, 2018 [consulté le 28 janvier 2021].
