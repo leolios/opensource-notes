@@ -53,8 +53,8 @@
 
 ## Questions ouvertes
 *2 points par question. Détaillez le plus possible.*
-### 1) Pourquoi indiquer GNU/Linux plutôt que GNU ?
+### 1) Pourquoi indiquer GNU/Linux plutôt que Linux ?
 ### 2) Pourquoi "rms" est contre le terme Open Source ?
-### 3) Quel licence libre vous choisiriez pour partager un article de blog et pourquoi ?
+### 3) Quel licence libre vous choisiriez pour partager librement un article de blog et pourquoi ?
 ### 4) Quels sont les avantages et inconvénients du logiciel libre ?
 ### 5) Citez des organismes de protection de la propriété intellectuelle ainsi que leur rôle.
