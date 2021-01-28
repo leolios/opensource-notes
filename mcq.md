@@ -27,7 +27,7 @@
 ### 6) Nous utilisons chaque jours des logiciels libres :
 - Vrai
 - Faux
-### 7) Ces domaines tournent essentiellement grâce à des logiciels libres :
+### 7) Ces domaines tournent majoritairement grâce à des logiciels libres :
 - Jeux vidéo
 - Transport maritime
 - Aéronautique
