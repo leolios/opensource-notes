@@ -12,7 +12,7 @@
 ---
 
 ## Définitions
-*Free/Libre/Open-Source Software (FLOSS)* est une expression qui permet à la fois de désigner les logiciels libres et les logiciels à code source ouvert. Ces deux modèles différent dans leur philosophie, mais leur modes de développement logiciel restent similaires.
+*Free/Libre/Open-Source Software (FLOSS)* est une expression qui permet à la fois de désigner les logiciels libres et les logiciels à code source ouvert. Ces deux modèles différent dans leur philosophie, mais leurs modes de développement logiciel restent similaires.
 
 Attention, un logiciel libre, ou *Free software* n'est pas forcément un logiciel gratuit. Les logiciels libres peuvent être payants, comme par exemple *RedHat Linux*.
 
@@ -20,7 +20,7 @@ Attention, un logiciel libre, ou *Free software* n'est pas forcément un logicie
  - *Freeware* : logiciels gratuits,
  - *Shareware* : logiciels payants AVEC période d'essai gratuite. Dans cette famille de licence, on y trouve aussi,
  - *Free Software* : logiciels libres, on considère parfois aussi certains logiciels *open-source* comme tels,
- - *Abandonware* : logiciels considéré comme abandonné car n'est plus mis en vente, ni mis à jour.
+ - *Abandonware* : logiciels considérés comme abandonné car ne sont plus mis en vente, ni mis à jour.
 
 ### *Open-Source*
  Selon l'[OSI](https://opensource.org/) (*Open Source Initiative*), l'approche *open source* est définie par ces **10 principes** :
@@ -76,12 +76,12 @@ On a donc des modèles économiques souvent bien différents de ceux de l'indust
 ## Histoire du logiciel
 Au départ et jusqu'à la fin des années 60, les logiciels étaient fournis avec les ordinateurs, **distribués comme des compléments pour du matériel déjà très coûteux**.
 
-> "Je pense qu'il y a un marché mondial pour peut-être cinq ordinateurs." - Thomas Watson, president d'IBM, 1943
+> "Je pense qu'il y a un marché mondial pour peut-être cinq ordinateurs." - Thomas Watson, président d'IBM, 1943
 
 ## Droit d'auteur, Licences, Brevets
 
 **4 outils essentiels à la protection d'une création originelle :**
-- **secret industriel :** on cache les secrets de fabrications,
+- **secret industriel :** on cache les secrets de fabrication,
 - **droit d'auteur :** permet de vendre ou de partager des licences d'utilisation du logiciel,
 - **marque :** permet d'identifier et de reconnaître l'image publique d'un produit, d'une suite de produits, d'une entreprise, d'une association, d'une fondation etc.,
 - **brevet :** protection d'une solution technique à un problème technique et qui ne s'identifie pas à un produit en particulier.
